@@ -1,0 +1,8 @@
+[package]
+name = "convex_hull_3D"
+version = "0.1.0"
+authors = ["Srinivas Kaza <srinivas@kaza.io>"]
+edition = "2018"
+
+[dependencies]
+nalgebra-glm = "0.1"
